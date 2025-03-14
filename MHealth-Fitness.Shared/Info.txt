@@ -1,0 +1,7 @@
+﻿INFO
+
+// shared project is a shared library for the MHealth_Fitness application. It contains data transfer objects (DTOs) used for communication between different layers of the application, such as between the client and server.
+// The DTOs are designed to be simple data structures that hold data without any business logic.
+// They are used to transfer data between different parts of the application, such as from the server to the client or vice versa.
+// The shared project helps to avoid code duplication and ensures that both the client and server use the same data structures for communication.
+// This project is essential for maintaining consistency and clarity in data handling across the entire application.
