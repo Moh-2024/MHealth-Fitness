@@ -1,0 +1,6 @@
+@MHealth_FitnessAPI_HostAddress = http://localhost:5239
+
+GET {{MHealth_FitnessAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
